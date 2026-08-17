@@ -1,4 +1,4 @@
-# Actividad: Generador de Consejos Aleatorios
+# Actividad: Generador de Consejos Aleatorios 
 
 ¡Bienvenido/a a la actividad práctico! En esta actividad conectaremos HTML, CSS y JavaScript moderno para consumir una API pública y crear una aplicación web funcional. Al final, subiremos el código a tu propio repositorio.
 
