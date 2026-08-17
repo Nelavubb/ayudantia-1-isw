@@ -13,7 +13,7 @@ Para comenzar, necesitas los archivos base del proyecto (`index.html`, `style.cs
 2. Crea los tres archivos: `index.html`, `style.css` y `app.js`.
 3. Copia el contenido proporcionado en el repositorio y pégalo en sus archivos respectivos.
 
-### Opción B: Clonar el repositorio (Recomendado para practcar Git)
+### Opción B: Clonar el repositorio (Recomendado para practicar Git)
 Si prefieres usar la terminal, abre tu terminal en la carpeta donde guardas tus proyectos y ejecuta:
 ```bash
 git clone <URL_DEL_REPOSITORIO_SSH>
